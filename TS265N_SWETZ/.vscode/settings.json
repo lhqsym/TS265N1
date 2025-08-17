@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "include.h": "c",
+        "app_lr.h": "c",
+        "app_ringbuf.h": "c",
+        "app_role_switch.h": "c",
+        "config_define.h": "c"
+    }
+}
